@@ -1,0 +1,3 @@
+[build]
+# 产物放到仓库根的 build/ 下，不留在源码目录里
+target-dir = "../build/rust"
